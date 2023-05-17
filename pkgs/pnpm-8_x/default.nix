@@ -18,3 +18,4 @@ pkgs.stdenv.mkDerivation rec {
     chmod +x $out/bin/{pnpm,pnpx}
   '';
 }
+
