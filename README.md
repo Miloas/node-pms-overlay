@@ -5,6 +5,7 @@ Including:
 ```
 npm-6_x
 npm-8_x
+npm-9_x
 pnpm-6_x
 pnpm-7_x
 pnpm-8_x
