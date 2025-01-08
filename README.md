@@ -11,6 +11,7 @@ pnpm-6_x
 pnpm-7_x
 pnpm-8_x
 pnpm-9_x
+pnpm-10_x
 yarn-1_x
 ```
 
