@@ -7,6 +7,7 @@ npm-6_x
 npm-8_x
 npm-9_x
 npm-10_x
+npm-11_x
 pnpm-6_x
 pnpm-7_x
 pnpm-8_x
